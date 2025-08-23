@@ -4,4 +4,5 @@ public class Motivation{
         System.out.println("keep learning,keep growing!");
     }
 }
+hello
 
